@@ -18,9 +18,9 @@
     "target": "git://github.com/nirvanatikku/jQuery-TubePlayer-Plugin.git",
     "fileMap": [
       {
-        "basePath": "",
+        "basePath": "dist/",
         "files": [
-          "dist/jquery.tubeplayer*.js"
+          "jquery.tubeplayer*.js"
         ]
       }
     ]
