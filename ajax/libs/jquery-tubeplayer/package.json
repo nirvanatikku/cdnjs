@@ -20,7 +20,7 @@
       {
         "basePath": "",
         "files": [
-          "jQuery.tubeplayer*.js"
+          "dist/jquery.tubeplayer*.js"
         ]
       }
     ]
